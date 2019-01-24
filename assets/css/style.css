@@ -37,13 +37,17 @@ body {
     text-align: center;
     text-decoration: none;
     background: #4aaaa5;
+    position: absolute;
+    margin-left: 170px;
   }
 
   .navbar {  
     width: 100%;
     margin: 0 0 30px;
     clear: both; 
-    border-bottom: 2px solid #ccc;  
+    border-bottom: 2px solid #ccc; 
+    height:90px;
+
   }
 
   textarea {
